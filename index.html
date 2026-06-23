@@ -1,0 +1,125 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Was kostet SEO? – SEO-Leistungs-Rechner | Mediencenter Essen</title>
+  <meta name="description" content="Kostenloser SEO-Rechner: Finden Sie in 1 Minute heraus, welche SEO-Leistungen für Ihr Unternehmen wirklich relevant sind und mit welcher Preisspanne Sie rechnen sollten. Von Mediencenter Essen." />
+  <meta name="author" content="Mediencenter Essen" />
+  <meta property="og:title" content="Was kostet SEO? – Der SEO-Leistungs-Rechner" />
+  <meta property="og:description" content="Welche SEO-Leistungen sind für Ihr Unternehmen relevant und was kostet das? Jetzt unverbindlich berechnen." />
+  <meta property="og:type" content="website" />
+  <link rel="icon" href="assets/05-preisbereiche.png" />
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <header class="site-header">
+    <div class="container">
+      <a class="brand" href="https://mediencenteressen.com/" target="_blank" rel="noopener">
+        <span class="brand-dot"></span> Mediencenter Essen
+      </a>
+      <a class="header-cta" href="https://mediencenteressen.com/" target="_blank" rel="noopener">SEO-Analyse anfragen</a>
+    </div>
+  </header>
+
+  <main class="container">
+    <section class="hero">
+      <div class="hero-text">
+        <p class="eyebrow">SEO-Leistungs-Rechner</p>
+        <h1>Was kostet SEO <span class="accent">wirklich</span> für Ihr Unternehmen?</h1>
+        <p class="lead">
+          Beantworten Sie ein paar kurze Fragen zu Ihrer Webseite und Ihren Zielen.
+          Sie erhalten sofort eine Einschätzung, <strong>welche SEO-Leistungen für Sie relevant sind</strong>
+          – sortiert nach Priorität – und eine <strong>realistische Preisspanne</strong>.
+        </p>
+        <ul class="hero-points">
+          <li>✓ In unter 1 Minute ausgefüllt</li>
+          <li>✓ Keine E-Mail nötig, keine Anmeldung</li>
+          <li>✓ Berechnung läuft komplett in Ihrem Browser</li>
+        </ul>
+      </div>
+      <div class="hero-image">
+        <img src="assets/01-was-kostet-seo.png" alt="Was kostet SEO? Realistische Einschätzungen" loading="eager" />
+      </div>
+    </section>
+
+    <!-- Fragebogen -->
+    <section id="quiz" class="card quiz" aria-live="polite">
+      <div class="progress">
+        <div class="progress-bar"><span id="progressFill"></span></div>
+        <p class="progress-label">Frage <span id="stepNow">1</span> von <span id="stepTotal">7</span></p>
+      </div>
+      <div id="questionArea"></div>
+      <div class="quiz-nav">
+        <button id="btnBack" class="btn btn-ghost" type="button">Zurück</button>
+        <button id="btnNext" class="btn btn-primary" type="button" disabled>Weiter</button>
+      </div>
+    </section>
+
+    <!-- Ergebnis -->
+    <section id="result" class="result hidden" aria-live="polite">
+      <div class="card result-head">
+        <h2>Ihr persönliches SEO-Ergebnis</h2>
+        <p class="muted">Auf Basis Ihrer Angaben – als Orientierung, nicht als verbindliches Angebot.</p>
+      </div>
+
+      <div class="card price-card">
+        <h3>Realistische Kostenschätzung</h3>
+        <div class="price-grid">
+          <div class="price-box">
+            <p class="price-label">Einmalig (Analyse &amp; Basis)</p>
+            <p class="price-value" id="priceOnce">–</p>
+          </div>
+          <div class="price-box highlight">
+            <p class="price-label">Laufende Betreuung</p>
+            <p class="price-value" id="priceMonthly">–</p>
+            <p class="price-suffix">pro Monat</p>
+          </div>
+        </div>
+        <p class="price-hint" id="priceHint"></p>
+        <p class="disclaimer">
+          ⓘ Dies sind unverbindliche Richtwerte. Der genaue Preis hängt vom tatsächlichen
+          Zustand Ihrer Webseite und dem Leistungsumfang ab und lässt sich erst nach einer
+          individuellen Analyse seriös bestimmen.
+        </p>
+      </div>
+
+      <div class="card">
+        <h3>Diese Leistungen sind für Sie relevant</h3>
+        <p class="muted">Sortiert nach Priorität für Ihr Projekt.</p>
+        <ul id="serviceList" class="service-list"></ul>
+      </div>
+
+      <div class="card cta-card">
+        <img src="assets/09-beratung.png" alt="Beratung für Ihre Webseite" class="cta-img" loading="lazy" />
+        <h3>Lohnt sich SEO für Ihre Webseite?</h3>
+        <p>
+          Mediencenter Essen prüft Ihre Webseite, zeigt Ihnen ehrlich, wo das größte
+          Potenzial liegt, und empfiehlt nur die Maßnahmen, die wirklich sinnvoll sind –
+          ob einmalige Optimierung oder laufende Betreuung.
+        </p>
+        <div class="cta-buttons">
+          <a class="btn btn-primary btn-lg" href="https://mediencenteressen.com/" target="_blank" rel="noopener">
+            Kostenlose SEO-Einschätzung anfragen
+          </a>
+          <button id="btnRestart" class="btn btn-ghost" type="button">Neu berechnen</button>
+        </div>
+      </div>
+    </section>
+  </main>
+
+  <footer class="site-footer">
+    <div class="container">
+      <p>
+        <strong>Mediencenter Essen</strong> – Webdesign, WordPress, WooCommerce &amp; SEO<br />
+        <a href="https://mediencenteressen.com/" target="_blank" rel="noopener">https://mediencenteressen.com/</a>
+      </p>
+      <p class="muted small">
+        Dieser Rechner dient der ersten Orientierung und ersetzt keine individuelle Beratung.
+      </p>
+    </div>
+  </footer>
+
+  <script src="app.js"></script>
+</body>
+</html>

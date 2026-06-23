@@ -1,520 +1,258 @@
-Was kostet SEO wirklich?
+# Was kostet SEO? – Ehrliche Orientierung für Unternehmen
 
-Die Frage „Was kostet SEO?“ gehört zu den häufigsten Fragen, die sich Unternehmen stellen, wenn sie ihre Webseite bei Google besser sichtbar machen möchten. Die Antwort ist jedoch nicht ganz so einfach, denn Suchmaschinenoptimierung hat keinen festen Pauschalpreis.
+> **🧮 Direkt ausprobieren:** Der interaktive **SEO-Leistungs-Rechner** zeigt Ihnen in
+> unter einer Minute, **welche SEO-Leistungen für Ihr Unternehmen relevant sind** und mit
+> **welcher Preisspanne** Sie realistisch rechnen sollten.
+>
+> 👉 **[Rechner jetzt öffnen](https://tim-m-83.github.io/Was-kostet-SEO/)**
 
-SEO kann wenige hundert Euro für eine einmalige Analyse kosten, aber auch mehrere tausend Euro pro Monat, wenn eine Webseite langfristig und professionell betreut wird. Der tatsächliche Preis hängt davon ab, wie groß die Webseite ist, wie stark der Wettbewerb ist, welche Ziele erreicht werden sollen und in welchem Zustand sich die Webseite aktuell befindet.
+![Was kostet SEO? Realistische Einschätzungen](assets/01-was-kostet-seo.png)
 
-Für kleine lokale Unternehmen kann eine überschaubare SEO-Optimierung bereits sinnvoll sein. Bei größeren Unternehmen, Onlineshops oder stark umkämpften Branchen ist dagegen meist ein deutlich höherer Aufwand notwendig.
+---
 
-Wichtig ist: SEO sollte nicht nur als Kostenpunkt betrachtet werden, sondern als Investition in langfristige Sichtbarkeit, Vertrauen und neue Kundenanfragen.
+„Was kostet SEO?" ist eine der ersten Fragen, die Unternehmen stellen, sobald sie bei
+Google sichtbarer werden möchten. Eine pauschale Antwort gibt es leider nicht – denn
+Suchmaschinenoptimierung hat keinen festen Listenpreis.
 
-Warum gibt es keinen festen SEO-Preis?
+Die Spanne ist groß: Eine einmalige Analyse kann schon für wenige hundert Euro zu haben
+sein, eine professionelle, dauerhafte Betreuung dagegen mehrere tausend Euro pro Monat
+kosten. Was am Ende sinnvoll ist, hängt von Ihrer Webseite, Ihrer Branche, Ihrem
+Wettbewerb und Ihren Zielen ab.
 
-Viele Unternehmen wünschen sich eine einfache Antwort wie: „SEO kostet 500 Euro im Monat.“ In der Praxis funktioniert das aber nicht. Jede Webseite ist anders, jede Branche hat andere Anforderungen und jedes Unternehmen verfolgt andere Ziele.
+Wichtig ist die richtige Perspektive: **SEO ist kein reiner Kostenpunkt, sondern eine
+Investition** in dauerhafte Sichtbarkeit, Vertrauen und neue Kundenanfragen.
 
-Eine kleine lokale Webseite für einen Handwerksbetrieb in Essen hat andere Voraussetzungen als ein WooCommerce-Onlineshop mit mehreren hundert Produkten. Auch eine Praxis-Webseite, eine Unternehmensseite oder eine Landingpage für eine einzelne Dienstleistung benötigt jeweils eine andere Strategie.
+---
 
-Die SEO-Kosten hängen unter anderem von diesen Faktoren ab:
+## Warum es keinen Pauschalpreis für SEO gibt
 
-Wie groß ist die Webseite?
+Der Wunsch nach einer klaren Zahl – „SEO kostet 500 € im Monat" – ist verständlich, in
+der Praxis aber nicht haltbar. Jede Webseite startet von einem anderen Punkt, jede
+Branche tickt anders und jedes Unternehmen verfolgt eigene Ziele.
 
-Gibt es bereits gute Inhalte?
+Eine kleine Handwerker-Seite aus Essen hat ganz andere Voraussetzungen als ein
+WooCommerce-Shop mit hunderten Produkten oder eine deutschlandweit ausgerichtete
+Unternehmensseite. Diese Faktoren beeinflussen die Kosten besonders stark:
 
-Ist die Webseite technisch sauber aufgebaut?
+- Umfang und Größe der Webseite
+- Qualität und Menge vorhandener Inhalte
+- technischer Zustand (Ladezeit, Mobile, Indexierung)
+- bestehende Rankings – oder Start bei null
+- Stärke des Wettbewerbs
+- gewünschte Reichweite (lokal, regional, deutschlandweit)
+- ob ein Onlineshop optimiert werden soll
+- einmalige Optimierung oder laufende Betreuung
 
-Sind wichtige Seiten bei Google indexierbar?
+Eine belastbare Einschätzung ist deshalb meist erst **nach einer Analyse der Webseite**
+möglich.
 
-Gibt es bereits Rankings oder startet die Seite bei null?
+![Warum SEO-Kosten variieren können](assets/03-kosten-variieren.png)
 
-Wie stark ist der Wettbewerb?
+---
 
-Geht es um lokale, regionale oder deutschlandweite Sichtbarkeit?
+## Was steckt eigentlich hinter SEO?
 
-Müssen neue Texte erstellt werden?
+SEO (Suchmaschinenoptimierung) bedeutet, eine Webseite so zu verbessern, dass sie bei
+Google besser gefunden wird – und zwar nicht nur über einzelne Keywords. Professionelle
+SEO greift in mehreren Bereichen ineinander:
 
-Muss die Seitenstruktur überarbeitet werden?
+- **OnPage-SEO** – Inhalte, Überschriften, Meta-Angaben, interne Verlinkung, Struktur und Nutzerführung.
+- **Technische SEO** – Ladezeiten, mobile Darstellung, Indexierung, Weiterleitungen, strukturierte Daten.
+- **Content-SEO** – relevante Inhalte, die Suchanfragen beantworten und Vertrauen aufbauen.
+- **Lokale SEO** – Sichtbarkeit in der eigenen Stadt oder Region, besonders für Dienstleister und Handwerk.
+- **Shop-SEO** – zusätzlich Produkt- und Kategorieseiten, Filter, Ladezeiten und Conversion-Optimierung.
 
-Gibt es technische Fehler?
+SEO ist also kein einzelner Handgriff, sondern ein Zusammenspiel aus Strategie, Technik,
+Inhalten und kontinuierlicher Pflege.
 
-Wird ein Onlineshop optimiert?
+![SEO in der Praxis erklärt](assets/02-seo-praxis.png)
 
-Soll SEO einmalig oder laufend betreut werden?
+---
 
-Deshalb ist eine seriöse Einschätzung meistens erst nach einer Analyse der Webseite möglich.
+## Die 7 Leistungen, die den Preis bestimmen
 
-Was bedeutet SEO überhaupt?
+Damit die Kosten greifbarer werden, lohnt ein Blick auf die einzelnen Bausteine einer
+SEO-Betreuung. Genau diese bewertet auch der [SEO-Leistungs-Rechner](https://tim-m-83.github.io/Was-kostet-SEO/).
 
-SEO steht für Suchmaschinenoptimierung. Ziel ist es, eine Webseite so zu verbessern, dass sie bei Google und anderen Suchmaschinen besser gefunden wird.
+1. **SEO-Analyse / Audit** – Bestandsaufnahme von Technik, Struktur und Inhalten, um gezielt dort anzusetzen, wo echtes Potenzial besteht.
+2. **Keyword-Recherche** – Herausfinden, wonach Ihre Kunden wirklich suchen, inklusive der dahinterstehenden Absicht.
+3. **OnPage-Optimierung** – Seitentitel, Meta-Beschreibungen, Überschriften, Texte, Alt-Texte, interne Links und URL-Struktur.
+4. **Technische SEO** – Ladezeitoptimierung, mobile Darstellung, saubere Indexierung, Core Web Vitals, strukturierte Daten.
+5. **Content-Erstellung** – Leistungsseiten, lokale Landingpages, Ratgeber, Blogartikel und FAQ-Bereiche.
+6. **Lokale SEO** – Standortbezug, lokale Keywords, Google Unternehmensprofil, Bewertungen und einheitliche Unternehmensdaten.
+7. **Laufende SEO-Betreuung** – Ranking-Monitoring, neue Inhalte, technische Überwachung und fortlaufende Optimierung.
 
-Dabei geht es nicht nur um Keywords. Professionelle SEO umfasst verschiedene Bereiche:
+![SEO-Dienstleistungen und Prozessübersicht](assets/04-leistungen-prozess.png)
 
-OnPage-SEO
-Hier werden Inhalte, Überschriften, Meta-Titel, Meta-Beschreibungen, interne Verlinkungen, Bilder, Seitenstruktur und Nutzerführung optimiert.
+---
 
-Technische SEO
-Dabei werden technische Grundlagen geprüft, zum Beispiel Ladezeiten, mobile Darstellung, Indexierung, Weiterleitungen, strukturierte Daten, Sitemaps und technische Fehler.
+## Realistische Preisbereiche im Überblick
 
-Content-SEO
-Hier geht es um relevante Inhalte, die Suchanfragen beantworten, Vertrauen schaffen und potenzielle Kunden informieren.
+Die folgenden Werte sind **grobe Richtwerte** und können je nach Projekt, Wettbewerb und
+Leistungsumfang abweichen.
 
-Lokale SEO
-Besonders wichtig für lokale Unternehmen, Dienstleister, Praxen und Handwerksbetriebe. Ziel ist es, in der eigenen Stadt oder Region besser gefunden zu werden.
+| Leistung | Richtwert |
+|---|---|
+| Einmalige SEO-Analyse | ca. **300 – 1.000 €** |
+| Einmalige Basis-Optimierung | ca. **750 – 3.000 €** |
+| Laufende Betreuung – kleine lokale Unternehmen | ca. **500 – 1.500 € / Monat** |
+| Laufende Betreuung – kleine & mittlere Unternehmen | ca. **1.000 – 3.000 € / Monat** |
+| Onlineshops & stark umkämpfte Märkte | ab **3.000 € / Monat** |
 
-Shop-SEO
-Bei WooCommerce-Onlineshops oder anderen Shopsystemen geht es zusätzlich um Produktseiten, Kategorieseiten, Produktbeschreibungen, Filterstrukturen, Ladezeiten und Conversion-Optimierung.
+![Realistische Preisbereiche](assets/05-preisbereiche.png)
 
-SEO ist also kein einzelner Arbeitsschritt, sondern ein Zusammenspiel aus Strategie, Technik, Inhalt und kontinuierlicher Optimierung.
+> Welche dieser Spannen auf Ihr Projekt zutrifft, berechnet der
+> **[SEO-Leistungs-Rechner](https://tim-m-83.github.io/Was-kostet-SEO/)** anhand weniger Fragen.
 
-Welche Leistungen beeinflussen die SEO-Kosten?
+---
 
-Damit die Kosten für SEO besser verständlich werden, lohnt sich ein Blick auf die einzelnen Leistungen, die in einer SEO-Betreuung enthalten sein können.
+## Vorsicht bei Billig-Angeboten („SEO für 99 € im Monat")
 
-1. SEO-Analyse / SEO-Audit
+Sehr günstige SEO-Pakete klingen verlockend, sind aber meist problematisch: Für echte
+Analyse, individuelle Strategie und manuelle Umsetzung bleibt kaum Zeit. Skeptisch werden
+sollten Sie bei Versprechen wie:
 
-Am Anfang steht häufig eine Analyse der bestehenden Webseite. Dabei wird geprüft, welche technischen, inhaltlichen und strukturellen Probleme vorhanden sind.
+- garantierter Platz 1 bei Google
+- schnelle Rankings „ohne echte Arbeit"
+- Pauschalpreise wie 99 € im Monat
+- automatische Reports ohne tatsächliche Umsetzung
+- Masse statt Klasse bei Backlinks
+- identische Maßnahmen für alle Kunden
+- keine vorherige Analyse der Webseite
 
-Typische Prüfpunkte sind:
+Niemand kann Platz 1 für ein bestimmtes Keyword garantieren. Seriöse SEO verbessert die
+Voraussetzungen – damit Google Ihre Seite besser versteht und Nutzer bessere Inhalte
+finden.
 
-Indexierung bei Google
+![Warum billige SEO-Angebote problematisch sind](assets/06-billige-angebote.png)
 
-Seitenstruktur
+---
 
-Meta-Titel und Meta-Beschreibungen
+## Wann sich SEO lohnt – und wann nicht
 
-Überschriftenstruktur
+SEO lohnt sich besonders, wenn Ihre potenziellen Kunden aktiv nach Ihren Leistungen
+suchen (z. B. „Webdesigner in Essen", „Physiotherapie Praxis Essen", „WooCommerce Shop
+erstellen lassen").
 
-Ladezeiten
+**SEO ist sinnvoll, wenn Sie …**
 
-mobile Optimierung
+- regelmäßig Kunden über Google gewinnen möchten
+- langfristig sichtbar sein wollen
+- eine professionell aufgebaute Webseite haben (oder verbessern möchten)
+- eine ausreichende Marge pro Kunde haben
+- auf lokale Suchanfragen angewiesen sind
 
-technische Fehler
+Wenn Sie dagegen **sofort** neue Kunden brauchen, wirken Google Ads kurzfristig schneller.
+Langfristig ist SEO oft nachhaltiger, weil gute Inhalte über lange Zeit Besucher bringen –
+auch wenn keine Anzeigen mehr laufen.
 
-interne Verlinkung
+![Wann SEO sinnvoll ist und wann nicht](assets/07-wann-sinnvoll.png)
 
-vorhandene Inhalte
+---
 
-Keyword-Potenziale
+## Einmalige Optimierung oder laufende Betreuung?
 
-lokale Sichtbarkeit
+**Eine einmalige Optimierung** kann reichen, wenn die Webseite klein ist, grundlegende
+Fehler behoben werden sollen, bereits gute Inhalte vorhanden sind oder das Budget begrenzt
+ist.
 
-Wettbewerbsumfeld
+**Eine laufende Betreuung** ist sinnvoll, wenn regelmäßig neue Inhalte entstehen sollen,
+Wettbewerber aktiv SEO betreiben, mehrere Leistungen oder Standorte optimiert werden, ein
+Onlineshop besser gefunden werden soll oder Rankings dauerhaft überwacht und verbessert
+werden sollen.
 
-Eine SEO-Analyse ist sinnvoll, um nicht blind irgendwelche Maßnahmen umzusetzen, sondern gezielt dort anzusetzen, wo wirklich Potenzial besteht.
+Ein guter Einstieg ist häufig eine **SEO-Analyse mit anschließender Prioritätenliste**.
+Danach lässt sich entscheiden, was sofort wichtig ist und was später folgen kann.
 
-2. Keyword-Recherche
+![Beispielrechnung für SEO in Essen](assets/08-beispielrechnung.png)
 
-Bei der Keyword-Recherche wird analysiert, wonach potenzielle Kunden tatsächlich suchen. Dabei geht es nicht nur um einzelne Hauptkeywords, sondern auch um konkrete Suchabsichten.
+---
 
-Beispiele:
+## Woran Sie eine seriöse SEO-Beratung erkennen
 
-„Webdesign Essen“
+- Es wird zuerst analysiert, bevor Maßnahmen empfohlen werden.
+- Die Strategie wird verständlich erklärt.
+- Es werden keine „Platz-1-Garantien" gegeben.
+- Maßnahmen sind individuell auf Ihre Webseite abgestimmt.
+- Inhalte, Technik und Nutzerführung werden gemeinsam betrachtet.
+- Es wird transparent kommuniziert, was umgesetzt wird.
+- Die Webseite wird für echte Besucher optimiert – nicht nur für Google.
 
-„SEO Agentur Essen“
+Gute Beratung ist ehrlich und sagt auch, wenn etwas Zeit braucht oder zuerst die
+Grundlagen geschaffen werden müssen.
 
-„WordPress Webseite erstellen lassen“
+---
 
-„WooCommerce Onlineshop optimieren“
-
-„Webseite für Handwerker erstellen lassen“
-
-„Praxishomepage erstellen lassen“
-
-Eine gute Keyword-Recherche hilft dabei, Seiten sinnvoll zu planen und Inhalte so auszurichten, dass sie zur Suchintention der Nutzer passen.
-
-3. OnPage-Optimierung
-
-Die OnPage-Optimierung betrifft alles, was direkt auf der Webseite angepasst werden kann. Dazu gehören unter anderem:
-
-Seitentitel
-
-Meta-Beschreibungen
-
-H1-, H2- und H3-Überschriften
-
-SEO-Texte
-
-Bild-Alt-Texte
-
-interne Links
-
-Call-to-Action-Bereiche
-
-Seitenstruktur
-
-Inhaltsaufbau
-
-URL-Struktur
-
-Gerade bei Unternehmenswebseiten ist es wichtig, dass Besucher sofort verstehen, welche Leistung angeboten wird, für wen sie geeignet ist und wie sie Kontakt aufnehmen können.
-
-4. Technische SEO
-
-Technische SEO ist für viele Unternehmen schwer greifbar, aber sehr wichtig. Eine Webseite kann noch so gut aussehen – wenn technische Fehler vorhanden sind, kann das die Sichtbarkeit deutlich ausbremsen.
-
-Zur technischen SEO gehören zum Beispiel:
-
-Ladezeitoptimierung
-
-mobile Optimierung
-
-saubere Indexierung
-
-XML-Sitemap
-
-robots.txt
-
-Weiterleitungen
-
-Fehlerseiten
-
-strukturierte Daten
-
-Core Web Vitals
-
-technische WordPress-Optimierung
-
-Vermeidung doppelter Inhalte
-
-Besonders bei WordPress-Webseiten und WooCommerce-Shops können technische Optimierungen einen großen Unterschied machen.
-
-5. Content-Erstellung
-
-Viele Webseiten ranken nicht gut, weil wichtige Inhalte fehlen. Eine Startseite allein reicht häufig nicht aus, um für verschiedene Leistungen gefunden zu werden.
-
-Sinnvoll sind zum Beispiel:
-
-eigene Leistungsseiten
-
-lokale Landingpages
-
-Blogartikel
-
-Ratgeberinhalte
-
-FAQ-Bereiche
-
-Kategorieseiten für Shops
-
-optimierte Produktbeschreibungen
-
-Gute Inhalte beantworten Fragen, bauen Vertrauen auf und zeigen Google, wofür eine Webseite relevant ist.
-
-6. Lokale SEO
-
-Für lokale Unternehmen ist lokale SEO besonders wichtig. Wer in Essen, im Ruhrgebiet oder in einer bestimmten Region Kunden gewinnen möchte, sollte die Webseite gezielt darauf ausrichten.
-
-Dazu gehören:
-
-Standortbezug auf wichtigen Seiten
-
-lokale Keywords
-
-Google Unternehmensprofil
-
-Bewertungen
-
-lokale Landingpages
-
-einheitliche Unternehmensdaten
-
-regionale Leistungsseiten
-
-strukturierte Daten für lokale Unternehmen
-
-Lokale SEO ist besonders sinnvoll für Dienstleister, Handwerker, Praxen, Restaurants, Kanzleien, Beratungsunternehmen und lokale Geschäfte.
-
-7. Laufende SEO-Betreuung
-
-SEO ist selten mit einer einmaligen Anpassung erledigt. Märkte verändern sich, Wettbewerber optimieren ebenfalls ihre Webseiten und Google bewertet Inhalte kontinuierlich neu.
-
-Eine laufende Betreuung kann zum Beispiel enthalten:
-
-regelmäßige Auswertung der Rankings
-
-neue Inhalte
-
-Optimierung bestehender Seiten
-
-technische Überwachung
-
-Wettbewerbsanalyse
-
-Anpassung der SEO-Strategie
-
-Verbesserung interner Verlinkungen
-
-Ausbau von Leistungsseiten
-
-Beratung und Planung
-
-Je mehr kontinuierlich umgesetzt wird, desto höher ist in der Regel auch das monatliche SEO-Budget.
-
-Realistische SEO-Kosten: Welche Preisbereiche sind üblich?
-
-Die folgenden Preisbereiche sind grobe Orientierungswerte. Die tatsächlichen Kosten können je nach Projekt, Wettbewerb und Leistungsumfang abweichen.
-
-Einmalige SEO-Analyse
-
-Eine einfache SEO-Analyse kann bei kleineren Webseiten bereits im Bereich von etwa 300 bis 1.000 Euro liegen. Umfangreichere Audits für größere Webseiten oder Onlineshops können deutlich teurer sein.
-
-Eine Analyse ist sinnvoll, wenn ein Unternehmen zunächst wissen möchte, wo die Webseite steht und welche Maßnahmen überhaupt notwendig sind.
-
-Einmalige Basis-Optimierung
-
-Eine einmalige SEO-Basisoptimierung kann je nach Umfang etwa 750 bis 3.000 Euro oder mehr kosten.
-
-Dabei werden häufig grundlegende Punkte optimiert, zum Beispiel:
-
-Seitentitel
-
-Meta-Beschreibungen
-
-Überschriften
-
-interne Links
-
-kleinere technische Fehler
-
-Struktur einzelner Seiten
-
-lokale SEO-Grundlagen
-
-Diese Variante kann sinnvoll sein, wenn eine kleinere Webseite zunächst eine solide SEO-Basis erhalten soll.
-
-Monatliche SEO-Betreuung für lokale Unternehmen
-
-Für kleine lokale Unternehmen liegen realistische monatliche SEO-Budgets häufig im Bereich von etwa 500 bis 1.500 Euro.
-
-Das kann zum Beispiel sinnvoll sein für:
-
-Handwerksbetriebe
-
-lokale Dienstleister
-
-Praxen
-
-Beratungsangebote
-
-kleine Unternehmenswebseiten
-
-regionale Anbieter
-
-In diesem Rahmen können häufig wichtige Grundlagen, laufende Optimierungen und neue Inhalte Schritt für Schritt umgesetzt werden.
-
-Monatliche SEO-Betreuung für kleine und mittlere Unternehmen
-
-Für kleine und mittlere Unternehmen mit mehreren Leistungen, stärkerem Wettbewerb oder regionalem Wachstum liegen SEO-Budgets häufig eher im Bereich von etwa 1.000 bis 3.000 Euro pro Monat.
-
-Hier können neben technischen Optimierungen auch regelmäßig neue Inhalte, Wettbewerbsanalysen, Landingpages und strategische SEO-Maßnahmen umgesetzt werden.
-
-SEO für Onlineshops und starke Wettbewerbsbranchen
-
-Bei WooCommerce-Onlineshops, größeren Webseiten oder stark umkämpften Märkten können SEO-Kosten schnell bei 3.000 Euro monatlich oder darüber liegen.
-
-Das liegt daran, dass Onlineshops häufig viele technische und inhaltliche Herausforderungen haben:
-
-Produktseiten
-
-Kategorieseiten
-
-Filterstrukturen
-
-Ladezeiten
-
-duplicate Content
-
-Produktbeschreibungen
-
-interne Verlinkung
-
-strukturierte Produktdaten
-
-Conversion-Optimierung
-
-Wettbewerbsanalyse
-
-Je größer der Shop und je stärker der Wettbewerb, desto mehr Aufwand ist notwendig.
-
-Warum SEO für 99 Euro im Monat meistens problematisch ist
-
-Viele Unternehmen stoßen auf sehr günstige SEO-Angebote. Auf den ersten Blick klingt das attraktiv. Doch bei SEO gilt: Wenn der Preis extrem niedrig ist, bleibt häufig kaum Zeit für echte Analyse, individuelle Strategie und manuelle Optimierung.
-
-Problematisch sind Angebote, die zum Beispiel Folgendes versprechen:
-
-Platz 1 bei Google garantiert
-
-schnelle Rankings ohne echte Arbeit
-
-SEO für 99 Euro im Monat
-
-automatische Reports ohne Umsetzung
-
-viele Backlinks ohne Qualität
-
-Keyword-Spam
-
-gleiche Maßnahmen für alle Kunden
-
-keine Erklärung der Arbeiten
-
-keine Analyse der Webseite
-
-Seriöse SEO braucht Zeit, Erfahrung und individuelle Maßnahmen. Niemand kann garantieren, dass eine Webseite für ein bestimmtes Keyword auf Platz 1 landet. Man kann aber die Voraussetzungen deutlich verbessern, damit Google die Webseite besser versteht und Nutzer bessere Inhalte finden.
-
-Wann lohnt sich SEO für Unternehmen?
-
-SEO lohnt sich besonders dann, wenn potenzielle Kunden aktiv nach den angebotenen Leistungen suchen.
-
-Beispiele:
-
-„Webdesigner in Essen“
-
-„Steuerberater in meiner Nähe“
-
-„Rohrreinigung Essen“
-
-„Physiotherapie Praxis Essen“
-
-„WooCommerce Shop erstellen lassen“
-
-„SEO Agentur für kleine Unternehmen“
-
-Wenn solche Suchanfragen für dein Unternehmen relevant sind, kann SEO langfristig ein sehr wertvoller Kanal sein.
-
-SEO lohnt sich vor allem, wenn:
-
-regelmäßig Kunden über Google gewonnen werden sollen
-
-das Unternehmen langfristig sichtbar sein möchte
-
-die Webseite professionell aufgebaut ist oder verbessert werden soll
-
-genug Marge pro Kunde vorhanden ist
-
-Vertrauen und Sichtbarkeit wichtig sind
-
-lokale Suchanfragen eine Rolle spielen
-
-Inhalte langfristig aufgebaut werden können
-
-SEO ist weniger geeignet, wenn sofort morgen neue Kunden benötigt werden. In diesem Fall können Google Ads oder andere Werbemaßnahmen kurzfristiger wirken. Langfristig ist SEO jedoch oft nachhaltiger, weil gute Inhalte und optimierte Seiten über längere Zeit Besucher bringen können.
-
-SEO für ein lokales Unternehmen
-
-Nehmen wir ein lokales Dienstleistungsunternehmen. Die Webseite sieht zwar ordentlich aus, wird aber kaum bei Google gefunden. Es gibt nur eine Startseite, eine Kontaktseite und ein paar kurze Leistungstexte.
-
-Eine sinnvolle SEO-Strategie könnte so aussehen:
-
-Analyse der bestehenden Webseite
-
-Keyword-Recherche für lokale Suchbegriffe
-
-Optimierung der Startseite
-
-Erstellung einzelner Leistungsseiten
-
-Verbesserung von Meta-Titeln und Meta-Beschreibungen
-
-Optimierung der internen Verlinkung
-
-Einbindung lokaler Begriffe
-
-technische WordPress-Optimierung
-
-Aufbau eines FAQ-Bereichs
-
-regelmäßige Erweiterung der Inhalte
-
-So entsteht Schritt für Schritt eine Webseite, die nicht nur professioneller wirkt, sondern auch für relevante Suchanfragen besser aufgestellt ist.
-
-SEO ist keine Ausgabe, sondern eine Investition
-
-Natürlich kostet SEO Geld. Aber die wichtigere Frage lautet: Was kann SEO langfristig bringen?
-
-Wenn eine Webseite durch bessere Sichtbarkeit regelmäßig neue Anfragen erzeugt, kann sich die Investition schnell lohnen. Besonders bei Dienstleistungen mit höherem Auftragswert reicht oft schon eine kleine Anzahl zusätzlicher Kundenanfragen, damit sich SEO wirtschaftlich auszahlt.
-
-Beispiel:
-
-Ein Unternehmen investiert in SEO und gewinnt dadurch langfristig mehrere zusätzliche Anfragen pro Monat. Wenn aus diesen Anfragen regelmäßig neue Kunden entstehen, kann SEO zu einem wichtigen Wachstumskanal werden.
-
-Der Unterschied zu kurzfristiger Werbung: Sobald Anzeigen gestoppt werden, endet meist auch die Sichtbarkeit. SEO baut dagegen langfristige organische Sichtbarkeit auf, die dauerhaft wirken kann, wenn sie gepflegt wird.
-
-Einmalige SEO-Optimierung oder monatliche Betreuung?
-
-Ob eine einmalige Optimierung reicht oder eine laufende Betreuung sinnvoll ist, hängt vom Ziel ab.
-
-Eine einmalige SEO-Optimierung kann sinnvoll sein, wenn:
-
-die Webseite klein ist
-
-grundlegende Fehler behoben werden sollen
-
-bereits gute Inhalte vorhanden sind
-
-zunächst eine solide Basis geschaffen werden soll
-
-das Budget begrenzt ist
-
-Eine monatliche SEO-Betreuung ist sinnvoll, wenn:
-
-regelmäßig neue Inhalte erstellt werden sollen
-
-Wettbewerber aktiv SEO betreiben
-
-mehrere Leistungen oder Standorte optimiert werden sollen
-
-ein Onlineshop besser gefunden werden soll
-
-langfristig mehr Sichtbarkeit aufgebaut werden soll
-
-Rankings regelmäßig überwacht und verbessert werden sollen
-
-Für viele Unternehmen ist ein guter Einstieg eine SEO-Analyse mit anschließender Prioritätenliste. Danach kann entschieden werden, welche Maßnahmen sofort wichtig sind und welche später folgen können.
-
-Woran erkennt man eine seriöse SEO-Beratung?
-
-Eine seriöse SEO-Beratung erkennt man nicht an großen Versprechen, sondern an einer nachvollziehbaren Vorgehensweise.
-
-Achte auf diese Punkte:
-
-Es wird zuerst analysiert, bevor Maßnahmen empfohlen werden.
-
-Die Strategie wird verständlich erklärt.
-
-Es werden keine Platz-1-Garantien gegeben.
-
-Maßnahmen werden individuell auf die Webseite abgestimmt.
-
-Inhalte, Technik und Nutzerführung werden gemeinsam betrachtet.
-
-Es wird transparent kommuniziert, was umgesetzt wird.
-
-SEO wird realistisch und langfristig betrachtet.
-
-Die Webseite wird nicht nur für Google, sondern auch für echte Besucher optimiert.
-
-Gute SEO-Beratung ist ehrlich. Sie erklärt auch, wenn etwas Zeit braucht oder wenn zuerst technische und inhaltliche Grundlagen geschaffen werden müssen.
-
-Fazit: Was kostet SEO?
-
-SEO kann je nach Umfang sehr unterschiedlich viel kosten. Eine einfache Analyse kann bereits mit einem kleineren Budget möglich sein, während eine professionelle monatliche Betreuung für Unternehmen schnell mehrere hundert bis mehrere tausend Euro pro Monat kosten kann.
-
-Entscheidend ist nicht nur der Preis, sondern die Frage, welche Leistung dahintersteht. Eine günstige SEO-Betreuung ohne Strategie, Inhalte und technische Umsetzung bringt meist wenig. Eine gut geplante SEO-Strategie kann dagegen langfristig helfen, Sichtbarkeit aufzubauen, Vertrauen zu schaffen und mehr passende Kundenanfragen zu gewinnen.
-
-Für Unternehmen ist deshalb wichtig: Nicht blind irgendein SEO-Paket buchen, sondern zuerst prüfen lassen, wo die Webseite aktuell steht, welche Ziele realistisch sind und welche Maßnahmen den größten Nutzen bringen.
-
-Unterstützung bei SEO, WordPress und Webdesign
+## Unterstützung von Mediencenter Essen
 
 Sie möchten wissen, ob sich SEO für Ihre Webseite oder Ihren WooCommerce-Onlineshop lohnt?
 
-Mediencenter Essen unterstützt Unternehmen, Selbstständige, Dienstleister, Praxen, Handwerksbetriebe und lokale Anbieter bei professioneller Suchmaschinenoptimierung, WordPress-Webseiten, WooCommerce-Onlineshops, Landingpages und technischer Webseitenpflege.
+**[Mediencenter Essen](https://mediencenteressen.com/)** unterstützt Unternehmen,
+Selbstständige, Dienstleister, Praxen, Handwerksbetriebe und lokale Anbieter bei
+professioneller Suchmaschinenoptimierung, WordPress-Webseiten, WooCommerce-Onlineshops,
+Landingpages und technischer Webseitenpflege.
 
-Wir analysieren Ihre Webseite, zeigen sinnvolle Optimierungsmöglichkeiten auf und helfen Ihnen dabei, online besser gefunden zu werden.
+Wir analysieren Ihre Webseite, zeigen sinnvolle Optimierungsmöglichkeiten auf und beraten
+ehrlich, verständlich und praxisnah – ob einmalige Analyse, technische Optimierung, lokale
+SEO oder langfristige Betreuung.
 
-Ob einmalige SEO-Analyse, technische Optimierung, lokale SEO oder langfristige Betreuung: Wir beraten ehrlich, verständlich und praxisnah.
+👉 **Jetzt kostenlose Einschätzung anfragen: [https://mediencenteressen.com/](https://mediencenteressen.com/)**
 
-Mediencenter Essen – Webdesign, WordPress, WooCommerce & SEO
+*Mediencenter Essen – Webdesign, WordPress, WooCommerce & SEO*
 
-Hier finden Sie die häufigst gestellten Fragen zum Thema SEO
+![Beratung für Ihre Webseite](assets/09-beratung.png)
 
-Was kostet SEO pro Monat? Die monatlichen SEO-Kosten hängen stark vom Umfang ab. Kleine lokale Unternehmen können oft mit etwa 500 bis 1.500 Euro pro Monat starten, während kleine und mittlere Unternehmen häufig eher mit 1.000 bis 3.000 Euro oder mehr rechnen sollten.  Kann man SEO einmalig machen lassen? Ja, eine einmalige SEO-Optimierung ist möglich und kann sinnvoll sein, um technische Fehler, Meta-Daten, Seitenstruktur und grundlegende Inhalte zu verbessern. Für langfristige Sichtbarkeit ist jedoch häufig eine laufende Betreuung sinnvoll.  Warum ist SEO so unterschiedlich teuer? SEO-Kosten hängen von vielen Faktoren ab, zum Beispiel von der Größe der Webseite, dem Wettbewerb, dem technischen Zustand, vorhandenen Inhalten, der Branche und den gewünschten Zielen.  Ist günstige SEO für 99 Euro im Monat sinnvoll? Sehr günstige SEO-Angebote sind oft problematisch, weil für individuelle Analyse, Strategie, technische Optimierung und hochwertige Inhalte kaum ausreichend Zeit bleibt. Unternehmen sollten genau prüfen, welche Leistungen tatsächlich enthalten sind.  Wann lohnt sich SEO für ein Unternehmen? SEO lohnt sich besonders, wenn potenzielle Kunden aktiv nach den angebotenen Leistungen suchen und die Webseite langfristig neue Anfragen oder Verkäufe generieren soll.  Was ist besser: SEO oder Google Ads? Google Ads können kurzfristig schnell Sichtbarkeit bringen, während SEO langfristig organische Sichtbarkeit aufbaut. Für viele Unternehmen kann eine Kombination sinnvoll sein, abhängig von Ziel, Budget und Wettbewerb.  Brauche ich SEO für meinen WooCommerce-Onlineshop? Ja, besonders bei Onlineshops kann SEO sehr wichtig sein. Produktseiten, Kategorieseiten, Ladezeiten, Produktbeschreibungen, interne Verlinkung und technische Shop-Struktur beeinflussen, wie gut ein Shop bei Google gefunden wird.  Kann Mediencenter Essen meine Webseite für SEO prüfen? Ja, Mediencenter Essen unterstützt bei SEO-Analysen, WordPress-Optimierung, lokaler SEO, WooCommerce-SEO, technischen Verbesserungen und der strategischen Weiterentwicklung von Webseiten.
+---
+
+## Häufige Fragen zum Thema SEO
+
+**Was kostet SEO pro Monat?**
+Das hängt stark vom Umfang ab. Kleine lokale Unternehmen starten oft bei etwa 500 – 1.500 €
+pro Monat, kleine und mittlere Unternehmen eher bei 1.000 – 3.000 € oder mehr.
+
+**Kann man SEO auch einmalig machen lassen?**
+Ja. Eine einmalige Optimierung von Technik, Meta-Daten, Struktur und Basis-Inhalten ist
+möglich und sinnvoll. Für dauerhafte Sichtbarkeit ist eine laufende Betreuung jedoch oft
+die bessere Wahl.
+
+**Warum ist SEO so unterschiedlich teuer?**
+Weil Größe der Webseite, Wettbewerb, technischer Zustand, vorhandene Inhalte, Branche und
+Ziele jeweils anders sind.
+
+**Ist günstige SEO für 99 € im Monat sinnvoll?**
+Selten. Für individuelle Analyse, Strategie, Technik und gute Inhalte bleibt dabei kaum
+Zeit. Prüfen Sie genau, welche Leistungen wirklich enthalten sind.
+
+**Was ist besser: SEO oder Google Ads?**
+Google Ads wirken kurzfristig, SEO baut langfristige organische Sichtbarkeit auf. Oft ist
+eine Kombination sinnvoll – abhängig von Ziel, Budget und Wettbewerb.
+
+**Brauche ich SEO für meinen WooCommerce-Shop?**
+In der Regel ja. Produktseiten, Kategorien, Ladezeiten, Produktbeschreibungen und die
+technische Shop-Struktur beeinflussen stark, wie gut ein Shop gefunden wird.
+
+**Kann Mediencenter Essen meine Webseite prüfen?**
+Ja. [Mediencenter Essen](https://mediencenteressen.com/) unterstützt bei SEO-Analysen,
+WordPress- und WooCommerce-Optimierung, lokaler SEO, technischen Verbesserungen und der
+strategischen Weiterentwicklung Ihrer Webseite.
+
+---
+
+## Über dieses Projekt
+
+Dieses Repository enthält einen kostenlosen, interaktiven **SEO-Leistungs-Rechner**
+(reines HTML/CSS/JavaScript, ohne Tracking – alle Berechnungen laufen im Browser).
+
+| Datei | Inhalt |
+|---|---|
+| `index.html` | Aufbau des Tools |
+| `styles.css` | Gestaltung (responsive) |
+| `app.js` | Fragebogen-Logik & Berechnung |
+| `assets/` | Grafiken |
+
+**Live-Version:** <https://tim-m-83.github.io/Was-kostet-SEO/>
+
+Die angegebenen Preise sind unverbindliche Richtwerte und ersetzen keine individuelle
+Analyse.
+
+© Mediencenter Essen · <https://mediencenteressen.com/>
